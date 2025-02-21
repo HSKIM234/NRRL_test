@@ -1,1 +1,2 @@
-# NRRL_test
+# NRRL
+Test site for the NRRL website
